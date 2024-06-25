@@ -1,0 +1,180 @@
+header{
+    text-align: center;
+    background-color:black;
+      }
+   #tit-header{
+    position: absolute;
+    width: 50%;
+    top: 850px;
+    left: 25%;
+
+    }
+      
+      h1,h2,h3 {
+        color:#c52233;
+      }
+      
+      h1{
+        font-size: 56px;
+      }
+      
+      h3{
+        
+        font-size: 30px;
+        text-decoration: underline;
+        margin-left: 50px;
+        padding-top: 20px;
+        
+      }
+       
+      p{
+        font-size:36px;
+       }
+       
+       nav, aside,footer{
+        text-align: center;
+        font-size:30px;
+        }
+        
+        nav{
+            padding: 50px;
+        }
+        a.menu{
+            border-left: 6px solid white;
+            margin-left:50px;
+            padding-left: 10px;
+        }
+       
+        nav,aside{
+        background-color: #c52233;
+       }
+       
+       footer{
+        background-color: #262626;
+        } 
+        #picJD{
+            with: 90px;
+        } 
+
+        .homepagina2{
+            
+            background-image: linear-gradient( to right, #1d1d1d, #c52233, #ffffff);
+        }
+        .nomepagina{
+            font-size: 44px;
+            text-align: right;
+            padding: 50px 100px;
+            
+        }
+        .paragrafo2{
+            background-color: #d7d7d7;
+        }
+        span#JohnDoe_text{
+          font-weight: bold;  
+        }
+        h1 :: before, h1 :: after {
+            content:"...";
+            color: white;
+        }
+        
+        a:link, a:visited, a:hover {
+            color:white;
+            text-decoration: none;
+        }
+        
+        a:hover{
+            font-size:36px;
+         }
+        
+        
+         #pic-book-JD {
+            width: 210px;
+         }
+        
+         #pic-plane-JD {
+            width: 175px;
+        
+         }
+         
+         div.gostos{
+            background-color: grey;
+            margin-top: 50px;
+           }
+        
+           #tit_gosto{
+            font-family: " Lucida Console", "Courier New", monospace;
+            text-decoration: none;
+            color: white;
+            font-size: 4em;
+            text-transform: uppercase;
+            text-align: center;
+
+        }
+        h4{
+            font-family: "Lucida Console", "Courier New", monospace;
+            letter-spacing: 2px;
+            text-indent: 30px;
+            font-size: 40px
+            
+
+        }
+        
+        .preferidos{
+            
+            text-decoration: underline;
+            }
+        
+            .blank{
+            font-style: italic;
+            
+        }
+       
+        a.botao:link, a.botão:visited, a.botão:hover{
+            background-color:white;
+            color:black;
+            text-decoration: none;
+            font-size: 42px;
+        }
+       
+        a.botão:hover{
+            background-color: rgb(197,34,51);
+            color:black;
+            background-color: black;
+
+        }
+        h4{
+            color:#c52233
+        }
+        .link_sobre{
+            background-color: #262626;
+            ;
+
+        }
+        div.link_sobre{
+            background-color: #262626;
+            height: 100px;
+        }
+        .paragrafo1, .paragrafo2{
+            max-width: 33.3%;
+            display: inline-block;
+            margin-left: 30px;
+            padding: 30px;
+        }
+        .quem-image{
+            display: inline-block;
+            margin-left: 30px;
+            float: left;
+           }
+        #JD-pic{
+            width: 200px;
+        }
+        #ler, #viajar{
+            border: 1px dotted white;
+            display: inline-block;
+            width: 45%;
+            padding: 2%;
+         }
+         .pref-ler-viajar{
+            float: right;
+         }        
+       
